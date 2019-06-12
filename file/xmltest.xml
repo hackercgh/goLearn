@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<azkaban-users>
+  <user username="陈贵华" roles="开发" password="xy_cgh" groups="村行条线" age="16">
+    <salary>30000</salary>
+  
+    <salary>35000</salary>
+  </user>
+</azkaban-users>

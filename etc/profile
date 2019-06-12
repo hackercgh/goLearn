@@ -1,0 +1,5 @@
+export GOROOT=/usr/local/go
+export GOPATH=$HOME//gopro/learn
+export GOBIN=$GOPATH/bin
+
+export PATH=$PATH:$GOROOT/bin:$GOBIN
