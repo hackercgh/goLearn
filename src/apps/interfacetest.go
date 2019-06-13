@@ -25,7 +25,7 @@ type WAVPlayper struct {
 	album     string
 }
 
-func (wav *WAVPlayper) play() {
+	func (wav *WAVPlayper) play() {
 	logger.Debug("this is WAVPlayer   musicName=%s singer=%s album=%s", wav.musicNmae, wav.singer, wav.album)
 }
 
